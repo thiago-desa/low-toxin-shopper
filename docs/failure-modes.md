@@ -1,6 +1,6 @@
 # Failure modes and troubleshooting
 
-Honest limits of the naturopath design. These are design notes, not claims that every runtime automatically recovers. Runtime failure handling for missing or stale sources is also written inline in the `naturopath-grounding` skill.
+Honest limits of the naturopath design in this `low-toxin-shopper` snapshot. These are design notes, not claims that every runtime automatically recovers. Runtime failure handling for missing or stale sources is also written inline in the `naturopath-grounding` skill.
 
 ## Data and grounding failures
 

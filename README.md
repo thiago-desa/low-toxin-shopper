@@ -1,6 +1,6 @@
-# naturopath
+# low-toxin-shopper
 
-A Grok Bot that makes it easier to avoid toxic chemicals in everyday products for yourself and your children. It checks ingredients, flags known problem chemicals, points to current certifications and tests, and suggests lower-toxin swaps, starting with the option to skip a product altogether.
+Public snapshot of the naturopath Grok Bot. It makes it easier to avoid toxic chemicals in everyday products for yourself and your children. It checks ingredients, flags known problem chemicals, points to current certifications and tests, and suggests lower-toxin swaps, starting with the option to skip a product altogether.
 
 **Not medical advice.** This bot is not a doctor, naturopathic physician, dentist, or any other clinician. It does not diagnose, treat, or prescribe. Product and ingredient notes are consumer information only. For symptoms, dosing, or a health decision, talk to a licensed clinician or your local official health service.
 

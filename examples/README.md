@@ -1,6 +1,6 @@
 # Examples
 
-All files in this folder are **clearly fictional** documentation samples.
+Fictional samples for the naturopath bot in this `low-toxin-shopper` repository. All files in this folder are **clearly fictional** documentation samples.
 
 - `fictional-product-check.md` - a made-up children's toothpaste check that starts with skipping the product, dates its sources, discloses a parent company, and does not give medical advice.
 

@@ -1,6 +1,6 @@
 # Architecture
 
-naturopath is a low-toxin product shopper Grok Bot. The design is a dated reasoning graph plus a verification layer. The public goal is to make it easier to avoid toxic chemicals in everyday products for the owner and their children. There is no packed standing routine in this snapshot.
+`low-toxin-shopper` is the public snapshot of the naturopath bot, a low-toxin product shopper Grok Bot. The design is a dated reasoning graph plus a verification layer. The public goal is to make it easier to avoid toxic chemicals in everyday products for the owner and their children. There is no packed standing routine in this snapshot.
 
 ## Goals
 

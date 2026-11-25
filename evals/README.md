@@ -1,6 +1,6 @@
 # Evals
 
-Golden-set cases in `golden-set.md` encode the behaviors this bot must keep: skip-the-product first, sourced and dated ingredient checks, parent-company disclosure, no invented lists or lab numbers, no medical advice, and a quiet path when nothing was asked.
+Golden-set cases in `golden-set.md` encode the behaviors the naturopath bot in `low-toxin-shopper` must keep: skip-the-product first, sourced and dated ingredient checks, parent-company disclosure, no invented lists or lab numbers, no medical advice, and a quiet path when nothing was asked.
 
 How to use:
 

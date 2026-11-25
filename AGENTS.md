@@ -1,10 +1,10 @@
 # AGENTS.md
 
-Short, high-signal instructions for coding agents working in `naturopath`.
+Short, high-signal instructions for coding agents working in `low-toxin-shopper`.
 
 ## What this repo is
 
-A sanitized proof-of-work snapshot of a low-toxin product shopper Grok Bot. Markdown skills, a reasoning-graph schema, evals, and docs are the product. There is no service binary to compile.
+A sanitized proof-of-work snapshot of the naturopath Grok Bot, a low-toxin product shopper. Markdown skills, a reasoning-graph schema, evals, and docs are the product. There is no service binary to compile.
 
 ## Layout
 

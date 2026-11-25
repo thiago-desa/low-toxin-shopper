@@ -1,6 +1,6 @@
 # Attribution
 
-This proof-of-work repository documents a Grok Bot low-toxin product shopper design by Thiago De Sa (2026).
+This proof-of-work repository (`low-toxin-shopper`) documents the naturopath Grok Bot, a low-toxin product shopper design by Thiago De Sa (2026).
 
 ## Design influences (ideas, not code)
 

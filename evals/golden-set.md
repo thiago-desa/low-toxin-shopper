@@ -1,6 +1,6 @@
 # Golden set (fictional)
 
-Offline regression cases for naturopath. Outcomes are rubrics, not exact wording. Every case is fictional. None of the products, tests, prices, or households below are real.
+Offline regression cases for the naturopath bot in `low-toxin-shopper`. Outcomes are rubrics, not exact wording. Every case is fictional. None of the products, tests, prices, or households below are real.
 
 ## NP-01 Skip first, then a sourced oral-care pick
 
